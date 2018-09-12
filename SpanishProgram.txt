@@ -1,0 +1,25 @@
+clase holaMundo públic@ {
+
+    func$ principal() {
+
+
+
+        #variable declartion
+
+        bool URC = ciert@ ;
+
+
+
+        #simple if statement
+
+        si ( URC ) {
+
+            imprimirln("Hola Mundo!");
+
+
+
+        }
+
+    }
+
+}
